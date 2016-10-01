@@ -1,0 +1,23 @@
+{
+  "name": "gdg",
+  "version": "1.0.0",
+  "description": "speech to text",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HarshaNalluru/gdg.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/HarshaNalluru/gdg/issues"
+  },
+  "homepage": "https://github.com/HarshaNalluru/gdg#readme",
+  "dependencies": {
+    "express": "^4.14.0",
+    "watson-developer-cloud": "^2.4.6"
+  }
+}
